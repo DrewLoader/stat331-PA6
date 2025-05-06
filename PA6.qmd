@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Drew Loader, Zoey Miles, Caroline Ritchy
 format: html
 editor: visual
 embedded-resources: true
